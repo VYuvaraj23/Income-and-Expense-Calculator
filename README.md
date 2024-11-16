@@ -29,4 +29,4 @@ Endpoint: `https://66d715ed006bfbe2e64fc4a8.mockapi.io/Expense`
 This site is deployed on Netlify. Every push to the main branch automatically triggers a new deployment.
 
 ## Netlify Deployment
-The site is hosted on Netlify, and you can access the live version here: `https://memory-game-responsive.netlify.app/`
+The site is hosted on Netlify, and you can access the live version here: https://income-and-expenses-calculator.netlify.app/
