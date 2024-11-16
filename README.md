@@ -1,6 +1,6 @@
-#Income & Expenses Application using HTML, TailwindCSS, CSS, and JavaScript
+# Income & Expenses Application using HTML, TailwindCSS, CSS, and JavaScript
 
-##Description
+## Description
 This is a simple Income & Expenses application using HTML, TailwindCSS, CSS, and JavaScript. This application allows users to:
 
 - add,
@@ -8,7 +8,7 @@ This is a simple Income & Expenses application using HTML, TailwindCSS, CSS, and
 - delete Income & Expenses.
   The tasks are stored in the browser's "mockAPI" storage.
 
-##Using MockAPI.io
+## Using MockAPI.io
 Endpoint: `https://66d715ed006bfbe2e64fc4a8.mockapi.io/Income`
 
 - To get all Income & Expenses: `GET /Income`
@@ -25,8 +25,8 @@ Endpoint: `https://66d715ed006bfbe2e64fc4a8.mockapi.io/Expense`
 - To update a Income & Expenses: `PUT /Expense/:id`
 - To delete a Income & Expenses: `DELETE /Expense/:id`
 
-##Deployment
+## Deployment
 This site is deployed on Netlify. Every push to the main branch automatically triggers a new deployment.
 
-Netlify Deployment
-The site is hosted on Netlify, and you can access the live version here: `https://memory-game-responsive.netlify.app/`
+## Netlify Deployment
+The site is hosted on Netlify, and you can access the live version here: https://income-and-expenses-calculator.netlify.app/
